@@ -93,16 +93,11 @@ Berikut gue rapihin jadi **README.md siap pakai (tinggal copas ke repo)** 👇
 
 # 📸 Screenshots
 
-| Fitur            | Tampilan                               |
-|------------------|----------------------------------------|
-| Home / Note List | ![Home](Screenshot/Home.jpeg)          |
-| Add Note         | ![Add Note](Screenshot/AddNote.jpeg)   |
-| Edit Note        | ![Edit Note](Screenshot/EditNote.jpeg) |
-| Favorite         | ![Favorite](Screenshot/Favorite.jpeg)  |
-| Search Feature   | ![Search](Screenshot/SearchFeature.jpeg) |
-| Settings Screen  | ![Settings](Screenshot/Setting.jpeg)   |
-| Profile          | ![Profile](Screenshot/Profile.jpeg)    |
-| Dark Mode        | ![Dark Mode](Screenshot/DarkMode.jpeg) |
+|             Home / Note List             |               Add Note               |               Edit Note                |                Favorite                |
+|:----------------------------------------:|:------------------------------------:|:--------------------------------------:|:--------------------------------------:|
+|      ![Home](Screenshot/Home.jpeg)       | ![Add Note](Screenshot/AddNote.jpeg) | ![Edit Note](Screenshot/EditNote.jpeg) | ![Favorite](Screenshot/Favorite.jpeg)  |
+|              Search Feature              |           Settings Screen            |                Profile                 |               Dark Mode                |
+| ![Search](Screenshot/SearchFeature.jpeg) | ![Settings](Screenshot/Setting.jpeg) |  ![Profile](Screenshot/Profile.jpeg)   | ![Dark Mode](Screenshot/DarkMode.jpeg) |
 
 ---
 

@@ -103,7 +103,7 @@ Berikut gue rapihin jadi **README.md siap pakai (tinggal copas ke repo)** 👇
 
 # 🎥 Video Demo
 
-
+https://github.com/user-attachments/assets/89dd48d2-6c2b-411f-9ebe-535835c6ea16
 
 ---
 
